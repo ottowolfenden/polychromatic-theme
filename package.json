@@ -6,6 +6,9 @@
   "engines": {
     "vscode": "^1.51.0"
   },
+  "categories": [
+    "Themes"
+  ],
   "main": "./extension.js",
   "activationEvents": [
     "*"
@@ -25,6 +28,13 @@
         "label": "Polychromatic Theme Light",
         "uiTheme": "vs",
         "path": "./themes/light.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "material-symbols",
+        "label": "Material Symbols",
+        "path": "./product-icon-theme/material-symbols-product-icon-theme.json"
       }
     ]
   },

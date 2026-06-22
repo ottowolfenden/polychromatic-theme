@@ -1,0 +1,487 @@
+{
+    "account": [
+        "accounts-view-bar-icon"
+    ],
+    "activate-breakpoints": [
+        "breakpoints-activate"
+    ],
+    "close-all": [
+        "breakpoints-remove-all",
+        "watch-expressions-remove-all"
+    ],
+    "debug-alt": [
+        "breakpoints-view-icon",
+        "callstack-view-icon",
+        "loaded-scripts-view-icon",
+        "run-view-icon",
+        "testing-debug-icon",
+        "variables-view-icon",
+        "watch-view-icon"
+    ],
+    "call-incoming": [
+        "callhierarchy-incoming"
+    ],
+    "call-outgoing": [
+        "callhierarchy-outgoing"
+    ],
+    "bug": [
+        "callstack-view-session"
+    ],
+    "comment-discussion": [
+        "chat-editor-label-icon",
+        "comments-view-icon"
+    ],
+    "debug-breakpoint": [
+        "debug-breakpoint"
+    ],
+    "debug-breakpoint-conditional": [
+        "debug-breakpoint-conditional"
+    ],
+    "debug-breakpoint-conditional-disabled": [
+        "debug-breakpoint-conditional-disabled"
+    ],
+    "debug-breakpoint-conditional-unverified": [
+        "debug-breakpoint-conditional-unverified"
+    ],
+    "debug-breakpoint-data": [
+        "debug-breakpoint-data"
+    ],
+    "debug-breakpoint-data-disabled": [
+        "debug-breakpoint-data-disabled"
+    ],
+    "debug-breakpoint-data-unverified": [
+        "debug-breakpoint-data-unverified"
+    ],
+    "debug-breakpoint-disabled": [
+        "debug-breakpoint-disabled"
+    ],
+    "debug-breakpoint-function": [
+        "debug-breakpoint-function"
+    ],
+    "debug-breakpoint-function-disabled": [
+        "debug-breakpoint-function-disabled"
+    ],
+    "debug-breakpoint-function-unverified": [
+        "debug-breakpoint-function-unverified"
+    ],
+    "debug-breakpoint-log": [
+        "debug-breakpoint-log"
+    ],
+    "debug-breakpoint-log-disabled": [
+        "debug-breakpoint-log-disabled"
+    ],
+    "debug-breakpoint-log-unverified": [
+        "debug-breakpoint-log-unverified"
+    ],
+    "debug-breakpoint-unsupported": [
+        "debug-breakpoint-unsupported"
+    ],
+    "debug-breakpoint-unverified": [
+        "debug-breakpoint-unverified"
+    ],
+    "collapse-all": [
+        "debug-collapse-all",
+        "search-collapse-results"
+    ],
+    "gear": [
+        "debug-configure",
+        "extensions-manage",
+        "notifications-configure",
+        "settings-more-action",
+        "tasks-list-configure",
+        "terminal-rename"
+    ],
+    "debug-console": [
+        "debug-console",
+        "debug-console-view-icon"
+    ],
+    "clear-all": [
+        "debug-console-clear-all",
+        "extensions-clear-search-results",
+        "notebook-clear",
+        "notifications-clear-all",
+        "preferences-clear-input",
+        "search-clear-results"
+    ],
+    "arrow-small-right": [
+        "debug-console-evaluation-input"
+    ],
+    "chevron-right": [
+        "debug-console-evaluation-prompt",
+        "find-collapsed",
+        "folding-collapsed",
+        "notebook-collapsed",
+        "search-hide-replace",
+        "settings-group-collapsed",
+        "suggest-more-info",
+        "view-pane-container-collapsed"
+    ],
+    "debug-continue": [
+        "debug-continue"
+    ],
+    "debug-disconnect": [
+        "debug-disconnect"
+    ],
+    "gripper": [
+        "debug-gripper"
+    ],
+    "debug-hint": [
+        "debug-hint"
+    ],
+    "debug-pause": [
+        "debug-pause"
+    ],
+    "debug-restart": [
+        "debug-restart"
+    ],
+    "debug-restart-frame": [
+        "debug-restart-frame"
+    ],
+    "debug-reverse-continue": [
+        "debug-reverse-continue"
+    ],
+    "debug-stackframe": [
+        "debug-stackframe"
+    ],
+    "debug-stackframe-focused": [
+        "debug-stackframe-focused"
+    ],
+    "debug-start": [
+        "debug-start"
+    ],
+    "debug-step-back": [
+        "debug-step-back"
+    ],
+    "debug-step-into": [
+        "debug-step-into"
+    ],
+    "debug-step-out": [
+        "debug-step-out"
+    ],
+    "debug-step-over": [
+        "debug-step-over",
+        "testing-skipped-icon"
+    ],
+    "debug-stop": [
+        "debug-stop"
+    ],
+    "window": [
+        "default-view-icon"
+    ],
+    "arrow-down": [
+        "diff-editor-next-change",
+        "find-next-match",
+        "goto-next-location",
+        "notebook-move-down"
+    ],
+    "arrow-up": [
+        "diff-editor-previous-change",
+        "find-previous-match",
+        "goto-previous-location",
+        "notebook-move-up"
+    ],
+    "whitespace": [
+        "diff-editor-toggle-whitespace"
+    ],
+    "add": [
+        "diff-insert",
+        "diff-review-insert",
+        "keybindings-add",
+        "settings-add",
+        "terminal-new",
+        "watch-expressions-add",
+        "watch-expressions-add-function-breakpoint"
+    ],
+    "remove": [
+        "diff-remove",
+        "diff-review-remove"
+    ],
+    "close": [
+        "diff-review-close",
+        "notifications-clear",
+        "panel-close",
+        "search-remove",
+        "settings-remove",
+        "tasks-remove",
+        "testing-cancel-icon",
+        "testing-failed-icon",
+        "widget-close"
+    ],
+    "debug": [
+        "disassembly-editor-label-icon"
+    ],
+    "files": [
+        "explorer-view-icon"
+    ],
+    "pencil": [
+        "extensions-configure-recommended",
+        "notebook-edit"
+    ],
+    "extensions": [
+        "extensions-editor-label-icon",
+        "extensions-view-icon",
+        "runtime-extensions-editor-label-icon"
+    ],
+    "filter": [
+        "extensions-filter",
+        "markers-view-filter"
+    ],
+    "info": [
+        "extensions-info-message"
+    ],
+    "cloud-download": [
+        "extensions-install-count",
+        "extensions-install-local-in-remote",
+        "extensions-install-workspace-recommended"
+    ],
+    "star": [
+        "extensions-rating",
+        "remote-explorer-get-started"
+    ],
+    "refresh": [
+        "extensions-refresh",
+        "search-refresh",
+        "timeline-refresh"
+    ],
+    "remote": [
+        "extensions-remote"
+    ],
+    "star-empty": [
+        "extensions-star-empty"
+    ],
+    "star-full": [
+        "extensions-star-full"
+    ],
+    "star-half": [
+        "extensions-star-half"
+    ],
+    "sync": [
+        "extensions-sync-enabled",
+        "settings-sync-view-icon"
+    ],
+    "sync-ignored": [
+        "extensions-sync-ignored"
+    ],
+    "warning": [
+        "extensions-warning-message",
+        "markers-view-icon",
+        "testing-error-icon"
+    ],
+    "chevron-down": [
+        "find-expanded",
+        "folding-expanded",
+        "marker-navigation-next",
+        "markers-view-multi-line-collapsed",
+        "notebook-expanded",
+        "notifications-collapse",
+        "notifications-hide",
+        "panel-restore",
+        "parameter-hints-next",
+        "search-show-replace",
+        "settings-group-expanded",
+        "view-pane-container-expanded"
+    ],
+    "replace": [
+        "find-replace",
+        "search-replace"
+    ],
+    "replace-all": [
+        "find-replace-all",
+        "search-replace-all"
+    ],
+    "selection": [
+        "find-selection"
+    ],
+    "lightbulb": [
+        "getting-started-beginner",
+        "refactor-preview-view-icon"
+    ],
+    "github": [
+        "getting-started-codespaces"
+    ],
+    "pass-filled": [
+        "getting-started-item-checked"
+    ],
+    "circle-large-outline": [
+        "getting-started-item-unchecked"
+    ],
+    "heart": [
+        "getting-started-setup"
+    ],
+    "edit": [
+        "keybindings-edit",
+        "settings-edit"
+    ],
+    "keyboard": [
+        "keybindings-editor-label-icon"
+    ],
+    "record-keys": [
+        "keybindings-record-keys"
+    ],
+    "sort-precedence": [
+        "keybindings-sort"
+    ],
+    "chevron-up": [
+        "marker-navigation-previous",
+        "markers-view-multi-line-expanded",
+        "notifications-expand",
+        "panel-maximize",
+        "parameter-hints-previous",
+        "review-comment-collapse"
+    ],
+    "diff-multiple": [
+        "multi-diff-editor-label-icon"
+    ],
+    "trash": [
+        "notebook-delete-cell",
+        "terminal-kill"
+    ],
+    "play": [
+        "notebook-execute"
+    ],
+    "run-all": [
+        "notebook-execute-all",
+        "testing-run-all-icon"
+    ],
+    "settings-gear": [
+        "notebook-kernel-configure",
+        "settings-view-bar-icon"
+    ],
+    "server-environment": [
+        "notebook-kernel-select"
+    ],
+    "code": [
+        "notebook-mimetype"
+    ],
+    "file-code": [
+        "notebook-open-as-text"
+    ],
+    "preview": [
+        "notebook-render-output"
+    ],
+    "discard": [
+        "notebook-revert",
+        "settings-discard"
+    ],
+    "split-vertical": [
+        "notebook-split-cell"
+    ],
+    "error": [
+        "notebook-state-error"
+    ],
+    "check": [
+        "notebook-state-success",
+        "notebook-stop-edit"
+    ],
+    "primitive-square": [
+        "notebook-stop"
+    ],
+    "unfold": [
+        "notebook-unfold"
+    ],
+    "book": [
+        "open-editors-view-icon",
+        "remote-explorer-documentation"
+    ],
+    "symbol-class": [
+        "outline-view-icon"
+    ],
+    "output": [
+        "output-view-icon"
+    ],
+    "plus": [
+        "ports-forward-icon"
+    ],
+    "globe": [
+        "ports-open-browser-icon"
+    ],
+    "x": [
+        "ports-stop-forward-icon"
+    ],
+    "plug": [
+        "ports-view-icon"
+    ],
+    "go-to-file": [
+        "preferences-open-settings"
+    ],
+    "lock": [
+        "private-ports-view-icon"
+    ],
+    "eye": [
+        "public-ports-view-icon"
+    ],
+    "twitter": [
+        "remote-explorer-feedback"
+    ],
+    "comment": [
+        "remote-explorer-report-issues"
+    ],
+    "issues": [
+        "remote-explorer-review-issues"
+    ],
+    "remote-explorer": [
+        "remote-explorer-view-icon"
+    ],
+    "ellipsis": [
+        "search-details"
+    ],
+    "search": [
+        "search-editor-label-icon",
+        "search-view-icon"
+    ],
+    "expand-all": [
+        "search-expand-results"
+    ],
+    "new-file": [
+        "search-new-editor"
+    ],
+    "list-selection": [
+        "search-show-context"
+    ],
+    "search-stop": [
+        "search-stop"
+    ],
+    "settings": [
+        "settings-editor-label-icon"
+    ],
+    "triangle-down": [
+        "settings-folder-dropdown"
+    ],
+    "source-control": [
+        "source-control-view-icon"
+    ],
+    "terminal": [
+        "terminal-view-icon"
+    ],
+    "beaker": [
+        "test-view-icon"
+    ],
+    "pass": [
+        "testing-passed-icon"
+    ],
+    "watch": [
+        "testing-queued-icon"
+    ],
+    "run": [
+        "testing-run-icon"
+    ],
+    "list-tree": [
+        "testing-show-as-list-icon"
+    ],
+    "circle-outline": [
+        "testing-unset-icon"
+    ],
+    "history": [
+        "timeline-open",
+        "timeline-view-icon"
+    ],
+    "pin": [
+        "timeline-pin"
+    ],
+    "pinned": [
+        "timeline-unpin"
+    ],
+    "shield": [
+        "workspace-trust-editor-label-icon"
+    ]
+}
