@@ -6,7 +6,7 @@
       "id": "material-symbols-outlined-font",
       "src": [
         {
-          "path": "./generator/material-symbols-outlined-variable.ttf",
+          "path": "./material-symbols-outlined-variable.ttf",
           "format": "truetype"
         }
       ],
@@ -15,13 +15,19 @@
     }
   ],
   "iconDefinitions": {
-    "accounts-view-bar-icon": {},
+    "accounts-view-bar-icon": {
+      "fontCharacter": "\\e853"
+    },
     "breakpoints-activate": {},
     "breakpoints-remove-all": {},
-    "breakpoints-view-icon": {},
+    "breakpoints-view-icon": {
+      "fontCharacter": "\\e868"
+    },
     "callhierarchy-incoming": {},
     "callhierarchy-outgoing": {},
-    "callstack-view-icon": {},
+    "callstack-view-icon": {
+      "fontCharacter": "\\e868"
+    },
     "callstack-view-session": {},
     "chat-editor-label-icon": {},
     "comments-view-icon": {},
@@ -73,11 +79,17 @@
     "diff-review-close": {},
     "diff-review-insert": {},
     "diff-review-remove": {},
-    "disassembly-editor-label-icon": {},
-    "explorer-view-icon": {},
+    "disassembly-editor-label-icon": {
+      "fontCharacter": "\\e868"
+    },
+    "explorer-view-icon": {
+      "fontCharacter": "\\e2c7"
+    },
     "extensions-clear-search-results": {},
     "extensions-configure-recommended": {},
-    "extensions-editor-label-icon": {},
+    "extensions-editor-label-icon": {
+      "fontCharacter": "\\e87b"
+    },
     "extensions-filter": {},
     "extensions-info-message": {},
     "extensions-install-count": {},
@@ -92,7 +104,9 @@
     "extensions-star-half": {},
     "extensions-sync-enabled": {},
     "extensions-sync-ignored": {},
-    "extensions-view-icon": {},
+    "extensions-view-icon": {
+      "fontCharacter": "\\e87b"
+    },
     "extensions-warning-message": {},
     "find-collapsed": {},
     "find-expanded": {},
@@ -115,7 +129,9 @@
     "keybindings-editor-label-icon": {},
     "keybindings-record-keys": {},
     "keybindings-sort": {},
-    "loaded-scripts-view-icon": {},
+    "loaded-scripts-view-icon": {
+      "fontCharacter": "\\e868"
+    },
     "marker-navigation-next": {},
     "marker-navigation-previous": {},
     "markers-view-filter": {},
@@ -130,7 +146,9 @@
     "notebook-execute": {},
     "notebook-execute-all": {},
     "notebook-expanded": {},
-    "notebook-kernel-configure": {},
+    "notebook-kernel-configure": {
+      "fontCharacter": "\\e8b8"
+    },
     "notebook-kernel-select": {},
     "notebook-mimetype": {},
     "notebook-move-down": {},
@@ -174,12 +192,18 @@
     "remote-explorer-review-issues": {},
     "remote-explorer-view-icon": {},
     "review-comment-collapse": {},
-    "run-view-icon": {},
-    "runtime-extensions-editor-label-icon": {},
+    "run-view-icon": {
+      "fontCharacter": "\\e868"
+    },
+    "runtime-extensions-editor-label-icon": {
+      "fontCharacter": "\\e87b"
+    },
     "search-clear-results": {},
     "search-collapse-results": {},
     "search-details": {},
-    "search-editor-label-icon": {},
+    "search-editor-label-icon": {
+      "fontCharacter": "\\e8b6"
+    },
     "search-expand-results": {},
     "search-hide-replace": {},
     "search-new-editor": {},
@@ -189,7 +213,9 @@
     "search-replace-all": {},
     "search-show-context": {},
     "search-show-replace": {},
-    "search-view-icon": {},
+    "search-view-icon": {
+      "fontCharacter": "\\e8b6"
+    },
     "settings-add": {},
     "settings-discard": {},
     "settings-edit": {},
@@ -200,8 +226,12 @@
     "settings-more-action": {},
     "settings-remove": {},
     "settings-sync-view-icon": {},
-    "settings-view-bar-icon": {},
-    "source-control-view-icon": {},
+    "settings-view-bar-icon": {
+      "fontCharacter": "\\e8b8"
+    },
+    "source-control-view-icon": {
+      "fontCharacter": "\\fffec"
+    },
     "suggest-more-info": {},
     "tasks-list-configure": {},
     "tasks-remove": {},
@@ -211,7 +241,9 @@
     "terminal-view-icon": {},
     "test-view-icon": {},
     "testing-cancel-icon": {},
-    "testing-debug-icon": {},
+    "testing-debug-icon": {
+      "fontCharacter": "\\e868"
+    },
     "testing-error-icon": {},
     "testing-failed-icon": {},
     "testing-passed-icon": {},
@@ -221,21 +253,31 @@
     "testing-show-as-list-icon": {},
     "testing-skipped-icon": {},
     "testing-unset-icon": {},
-    "timeline-open": {},
+    "timeline-open": {
+      "fontCharacter": "\\e889"
+    },
     "timeline-pin": {},
     "timeline-refresh": {},
     "timeline-unpin": {},
-    "timeline-view-icon": {},
-    "variables-view-icon": {},
+    "timeline-view-icon": {
+      "fontCharacter": "\\e889"
+    },
+    "variables-view-icon": {
+      "fontCharacter": "\\e868"
+    },
     "view-pane-container-collapsed": {},
     "view-pane-container-expanded": {},
     "watch-expressions-add": {},
     "watch-expressions-add-function-breakpoint": {},
     "watch-expressions-remove-all": {},
-    "watch-view-icon": {},
+    "watch-view-icon": {
+      "fontCharacter": "\\e868"
+    },
     "widget-close": {},
     "workspace-trust-editor-label-icon": {},
-    "account": {},
+    "account": {
+      "fontCharacter": "\\e853"
+    },
     "activate-breakpoints": {},
     "add": {},
     "alert": {},
@@ -259,10 +301,18 @@
     "azure": {},
     "beaker-stop": {},
     "beaker": {},
-    "bell": {},
-    "bell-dot": {},
-    "bell-slash": {},
-    "bell-slash-dot": {},
+    "bell": {
+      "fontCharacter": "\\e7f4"
+    },
+    "bell-dot": {
+      "fontCharacter": "\\f4fe"
+    },
+    "bell-slash": {
+      "fontCharacter": "\\e7f6"
+    },
+    "bell-slash-dot": {
+      "fontCharacter": "\\e7f6"
+    },
     "bold": {},
     "book": {},
     "bookmark": {},
@@ -326,10 +376,18 @@
     "dash": {},
     "dashboard": {},
     "database": {},
-    "debug-all": {},
-    "debug": {},
-    "debug-alt": {},
-    "debug-alt-small": {},
+    "debug-all": {
+      "fontCharacter": "\\e868"
+    },
+    "debug": {
+      "fontCharacter": "\\e868"
+    },
+    "debug-alt": {
+      "fontCharacter": "\\e868"
+    },
+    "debug-alt-small": {
+      "fontCharacter": "\\e868"
+    },
     "debug-continue-small": {},
     "debug-coverage": {},
     "debug-line-by-line": {},
@@ -357,7 +415,9 @@
     "exclude": {},
     "expand-all": {},
     "export": {},
-    "extensions": {},
+    "extensions": {
+      "fontCharacter": "\\e87b"
+    },
     "eye": {},
     "eye-closed": {},
     "eye-unwatch": {},
@@ -376,7 +436,9 @@
     "file-symlink-file": {},
     "file-text": {},
     "file-zip": {},
-    "files": {},
+    "files": {
+      "fontCharacter": "\\e2c7"
+    },
     "filter-filled": {},
     "filter": {},
     "flame": {},
@@ -425,7 +487,9 @@
     "gripper": {},
     "group-by-ref-type": {},
     "heart": {},
-    "history": {},
+    "history": {
+      "fontCharacter": "\\e889"
+    },
     "home": {},
     "horizontal-rule": {},
     "hubot": {},
@@ -491,7 +555,9 @@
     "markdown": {},
     "megaphone": {},
     "mention": {},
-    "menu": {},
+    "menu": {
+      "fontCharacter": "\\e5d2"
+    },
     "merge": {},
     "mic": {},
     "mic-filled": {},
@@ -589,7 +655,9 @@
     "save-as": {},
     "screen-full": {},
     "screen-normal": {},
-    "search": {},
+    "search": {
+      "fontCharacter": "\\e8b6"
+    },
     "search-save": {},
     "search-stop": {},
     "search-fuzzy": {},
@@ -599,7 +667,9 @@
     "server-environment": {},
     "server-process": {},
     "settings": {},
-    "settings-gear": {},
+    "settings-gear": {
+      "fontCharacter": "\\e8b8"
+    },
     "shield": {},
     "sign-in": {},
     "sign-out": {},
@@ -607,7 +677,9 @@
     "snake": {},
     "sparkle": {},
     "sort-precedence": {},
-    "source-control": {},
+    "source-control": {
+      "fontCharacter": "\\fffec"
+    },
     "split-horizontal": {},
     "split-vertical": {},
     "squirrel": {},

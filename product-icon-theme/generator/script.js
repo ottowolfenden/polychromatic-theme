@@ -4,10 +4,15 @@ import codiconMaterialSymbols from "./codicon-material-symbols.json" with {type:
 import codiconVscIds from "./codicon-vsc-ids.json" with {type: "json"};
 
 for (var item in codiconMaterialSymbols) {
-    var icon = codiconMaterialSymbols[item]
-    if (icon != "\\") {
-        var toReplace = codiconVscIds[item];
-        toReplace.forEach(id => productIconTheme.iconDefinitions[id] = { "fontCharacter": icon })
+    var iconHex = codiconMaterialSymbols[item]
+    var toReplace = (codiconVscIds[item] ?? []).concat(item);
+    if (toReplace) {
+        toReplace.forEach(id => {
+            var original = JSON.stringify(productIconTheme.iconDefinitions[id]);
+            productIconTheme.iconDefinitions[id] = iconHex == "\\" ? {} : { "fontCharacter": iconHex };
+            if (JSON.stringify(productIconTheme.iconDefinitions[id]) != original)
+                console.log(`${iconHex} -> ${id}`);
+        })
     }
 }
 
