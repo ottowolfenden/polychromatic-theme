@@ -6,8 +6,9 @@
   "engines": {
     "vscode": "^1.51.0"
   },
-  "categories": [
-    "Themes"
+  "main": "./extension.js",
+  "activationEvents": [
+    "*"
   ],
   "repository": {
     "type": "git",
@@ -26,5 +27,8 @@
         "path": "./themes/light.json"
       }
     ]
-  }
+  },
+  "extensionDependencies": [
+    "subframe7536.custom-ui-style"
+  ]
 }
