@@ -34,7 +34,7 @@
       {
         "id": "material-symbols",
         "label": "Material Symbols",
-        "path": "./product-icon-theme/material-symbols-product-icon-theme.json"
+        "path": "./product-icon-theme/product-icon-theme.json"
       }
     ]
   },
