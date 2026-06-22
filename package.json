@@ -1,0 +1,30 @@
+{
+  "name": "polychromatic-theme",
+  "displayName": "Polychromatic Theme",
+  "description": "Polychromatic Theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Polychromatic Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Polychromatic Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      }
+    ]
+  }
+}
