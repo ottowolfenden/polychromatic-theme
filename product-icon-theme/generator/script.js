@@ -9,9 +9,17 @@ for (var item in codiconMaterialSymbols) {
     if (toReplace) {
         toReplace.forEach(id => {
             var original = JSON.stringify(productIconTheme.iconDefinitions[id]);
-            productIconTheme.iconDefinitions[id] = iconHex == "\\" ? {} : { "fontCharacter": iconHex };
+            var fill = iconHex.substring(0, 4) == "fill";
+            iconHex = iconHex.replace("fill", "")
+            productIconTheme.iconDefinitions[id] =
+                iconHex == "\\"
+                    ? {}
+                    : {
+                        "fontCharacter": iconHex,
+                        "fontId": fill ? "fill" : "normal"
+                    };
             if (JSON.stringify(productIconTheme.iconDefinitions[id]) != original)
-                console.log(`${iconHex} -> ${id}`);
+                console.log(`${iconHex}${fill ? " (fill)" : ""} -> ${id}`);
         })
     }
 }
