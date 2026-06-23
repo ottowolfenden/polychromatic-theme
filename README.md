@@ -2,7 +2,7 @@
 
 A simple light and dark colour theme and product icon theme for VS Code.
 
-Only tested on Arch Linux (blur effect from Hyprland).
+Only tested on Arch Linux (blur effect is from Hyprland).
 
 Some icons are not mapped yet and there are a few colours that need changing.
 
