@@ -11,7 +11,7 @@
   ],
   "main": "./extension.js",
   "activationEvents": [
-    "*"
+    "onStartupFinished"
   ],
   "repository": {
     "type": "git",

@@ -11,6 +11,10 @@ function activate(context) {
         ".monaco-workbench.vs-dark": "background-color: #000000cc !important;",
         ".monaco-workbench.vs": "background-color: #ffffffcc !important;"
     }, vscode.ConfigurationTarget.Global);
+    config.update("workbench.colorTheme", "Polychromatic Theme Dark", vscode.ConfigurationTarget.Global);
+    config.update("workbench.preferredDarkColorTheme", "Polychromatic Theme Dark", vscode.ConfigurationTarget.Global);
+    config.update("workbench.preferredLightColorTheme", "Polychromatic Theme Light", vscode.ConfigurationTarget.Global);
+    config.update("workbench.productIconTheme", "material-symbols", vscode.ConfigurationTarget.Global);
 }
 
 function deactivate() { }
