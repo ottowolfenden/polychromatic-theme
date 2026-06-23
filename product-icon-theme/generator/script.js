@@ -19,7 +19,7 @@ for (var item in codiconMaterialSymbols) {
                         "fontId": fill ? "fill" : "normal"
                     };
             if (JSON.stringify(productIconTheme.iconDefinitions[id]) != original)
-                console.log(`${iconHex}${fill ? " (fill)" : ""} -> ${id}`);
+                console.log(`${iconHex} ${fill ? "(fill)" : "(normal)"} -> ${id}`);
         })
     }
 }
