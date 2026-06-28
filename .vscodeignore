@@ -1,3 +1,5 @@
 .vscode/**
 .git*
 *.vsix
+assets/dark-2.0.0.png
+assets/light-2.0.0.png

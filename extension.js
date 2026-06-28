@@ -8,8 +8,10 @@ function activate(context) {
     }, vscode.ConfigurationTarget.Global);
     config.update("custom-ui-style.stylesheet", {
         ".monaco-editor, .monaco-editor .margin, .monaco-editor-background, .editor-container, .editor-instance, .split-view-view, .tabs-container, .title, .breadcrumbs-widget, .sidebar, .activitybar, .statusbar": "background-color: transparent !important;",
-        ".monaco-workbench.vs-dark": "background-color: #000000d6 !important;",
-        ".monaco-workbench.vs": "background-color: #ffffffd6 !important;"
+        ".monaco-workbench.vs-dark": "background-color: #000000d8 !important;",
+        ".monaco-workbench.vs": "background-color: #ffffffd8 !important;",
+        ".monaco-tl-contents": "background-color: #00000000 !important",
+        ".monaco-list-rows": "background-color: #00000000 !important"
     }, vscode.ConfigurationTarget.Global);
     config.update("workbench.colorTheme", "Polychromatic Theme Dark", vscode.ConfigurationTarget.Global);
     config.update("workbench.preferredDarkColorTheme", "Polychromatic Theme Dark", vscode.ConfigurationTarget.Global);

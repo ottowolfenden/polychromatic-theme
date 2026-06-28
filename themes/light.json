@@ -754,7 +754,7 @@
     "notebook.inactiveFocusedCellBorder": "#4285f450",
     "statusBar.background": "#fafafa",
     "statusBar.debuggingBackground": "#fafafa",
-    "statusBar.debuggingForeground": "#fafafa",
+    "statusBar.debuggingForeground": "#7E939E",
     "statusBar.noFolderBackground": "#fafafa",
     "statusBarItem.activeBackground": "#E5393580",
     "statusBarItem.hoverBackground": "#50505020",
@@ -910,6 +910,16 @@
     "breadcrumb.background": "#00000000",
     "sideBar.background": "#00000000",
     "sideBarSectionHeader.background": "#ffffff30",
-    "sideBarSectionHeader.border": "#00000000"
+    "sideBarSectionHeader.border": "#00000000",
+    "scmGraph.historyItemRefColor": "#4285f4",
+    "scmGraph.historyItemRemoteRefColor": "#7248b9",
+    "scmGraph.historyItemBaseRefColor": "#7248b9",
+    "scmGraph.historyItemHoverLabelForeground": "#ffffff",
+    "scmGraph.historyItemHoverDefaultLabelForeground": "#0057ca",
+    "scmGraph.foreground1": "#fd6132",
+    "scmGraph.foreground2": "#f1b911",
+    "scmGraph.foreground3": "#4285f4",
+    "scmGraph.foreground4": "#0057ca",
+    "scmGraph.foreground5": "#7248b9"
   }
 }

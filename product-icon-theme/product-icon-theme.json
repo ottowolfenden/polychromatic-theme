@@ -55,8 +55,14 @@
       "fontCharacter": "\\f0fa",
       "fontId": "normal"
     },
-    "chat-editor-label-icon": {},
-    "comments-view-icon": {},
+    "chat-editor-label-icon": {
+      "fontCharacter": "\\e0bf",
+      "fontId": "normal"
+    },
+    "comments-view-icon": {
+      "fontCharacter": "\\e0bf",
+      "fontId": "normal"
+    },
     "debug-breakpoint": {},
     "debug-breakpoint-conditional": {},
     "debug-breakpoint-conditional-disabled": {},
@@ -129,7 +135,10 @@
       "fontCharacter": "\\e5d8",
       "fontId": "normal"
     },
-    "diff-editor-toggle-whitespace": {},
+    "diff-editor-toggle-whitespace": {
+      "fontCharacter": "\\f865",
+      "fontId": "normal"
+    },
     "diff-insert": {
       "fontCharacter": "\\f3dd",
       "fontId": "normal"
@@ -316,7 +325,10 @@
       "fontCharacter": "\\e316",
       "fontId": "normal"
     },
-    "multi-diff-editor-label-icon": {},
+    "multi-diff-editor-label-icon": {
+      "fontCharacter": "\\eb7d",
+      "fontId": "normal"
+    },
     "notebook-clear": {
       "fontCharacter": "\\e0b8",
       "fontId": "normal"
@@ -475,7 +487,10 @@
       "fontCharacter": "\\f0ec",
       "fontId": "normal"
     },
-    "remote-explorer-report-issues": {},
+    "remote-explorer-report-issues": {
+      "fontCharacter": "\\e0b7",
+      "fontId": "normal"
+    },
     "remote-explorer-review-issues": {},
     "remote-explorer-view-icon": {},
     "review-comment-collapse": {
@@ -901,17 +916,47 @@
       "fontCharacter": "\\e944",
       "fontId": "normal"
     },
-    "color-mode": {},
+    "color-mode": {
+      "fontCharacter": "\\e40a",
+      "fontId": "normal"
+    },
     "combine": {},
-    "comment": {},
-    "comment-add": {},
-    "comment-discussion": {},
-    "comment-draft": {},
-    "comment-unresolved": {},
-    "compare-changes": {},
-    "compass-active": {},
-    "compass-dot": {},
-    "compass": {},
+    "comment": {
+      "fontCharacter": "\\e0b7",
+      "fontId": "normal"
+    },
+    "comment-add": {
+      "fontCharacter": "\\e0b7",
+      "fontId": "normal"
+    },
+    "comment-discussion": {
+      "fontCharacter": "\\e0bf",
+      "fontId": "normal"
+    },
+    "comment-draft": {
+      "fontCharacter": "\\eeed",
+      "fontId": "normal"
+    },
+    "comment-unresolved": {
+      "fontCharacter": "\\f189",
+      "fontId": "normal"
+    },
+    "compare-changes": {
+      "fontCharacter": "\\f3c5",
+      "fontId": "normal"
+    },
+    "compass-active": {
+      "fontCharacter": "\\e87a",
+      "fontId": "normal"
+    },
+    "compass-dot": {
+      "fontCharacter": "\\e87a",
+      "fontId": "normal"
+    },
+    "compass": {
+      "fontCharacter": "\\e87a",
+      "fontId": "normal"
+    },
     "console": {
       "fontCharacter": "\\fff8e",
       "fontId": "normal"
@@ -921,9 +966,18 @@
       "fontCharacter": "\\e14d",
       "fontId": "normal"
     },
-    "credit-card": {},
-    "dash": {},
-    "dashboard": {},
+    "credit-card": {
+      "fontCharacter": "\\e870",
+      "fontId": "normal"
+    },
+    "dash": {
+      "fontCharacter": "\\f88a",
+      "fontId": "normal"
+    },
+    "dashboard": {
+      "fontCharacter": "\\f3ea",
+      "fontId": "normal"
+    },
     "database": {
       "fontCharacter": "\\f20e",
       "fontId": "normal"
@@ -1820,7 +1874,10 @@
       "fontId": "normal"
     },
     "watch": {},
-    "whitespace": {},
+    "whitespace": {
+      "fontCharacter": "\\f865",
+      "fontId": "normal"
+    },
     "whole-word": {
       "fontCharacter": "\\f6f0",
       "fontId": "normal"
