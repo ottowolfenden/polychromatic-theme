@@ -39,8 +39,5 @@
         "path": "./product-icon-theme/product-icon-theme.json"
       }
     ]
-  },
-  "extensionDependencies": [
-    "subframe7536.custom-ui-style"
-  ]
+  }
 }

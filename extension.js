@@ -1,27 +1,14 @@
 const vscode = require("vscode");
-
-function activate(context) {
-    const config = vscode.workspace.getConfiguration();
-    config.update("custom-ui-style.electron", {
-        "backgroundColor": "#00000000",
-        "transparent": true
-    }, vscode.ConfigurationTarget.Global);
-    config.update("custom-ui-style.stylesheet", {
-        ".monaco-editor, .monaco-editor .margin, .monaco-editor-background, .editor-container, .editor-instance, .split-view-view, .tabs-container, .title, .breadcrumbs-widget, .sidebar, .activitybar, .statusbar": "background-color: transparent !important;",
-        ".monaco-workbench.vs-dark": "background-color: #000000d8 !important;",
-        ".monaco-workbench.vs": "background-color: #ffffffd8 !important;",
-        ".monaco-tl-contents": "background-color: #00000000 !important",
-        ".monaco-list-rows": "background-color: #00000000 !important"
-    }, vscode.ConfigurationTarget.Global);
-    config.update("workbench.colorTheme", "Polychromatic Theme Dark", vscode.ConfigurationTarget.Global);
-    config.update("workbench.preferredDarkColorTheme", "Polychromatic Theme Dark", vscode.ConfigurationTarget.Global);
-    config.update("workbench.preferredLightColorTheme", "Polychromatic Theme Light", vscode.ConfigurationTarget.Global);
-    config.update("workbench.productIconTheme", "material-symbols", vscode.ConfigurationTarget.Global);
-}
-
-function deactivate() { }
-
 module.exports = {
-    activate,
-    deactivate
-}
+    activate: () =>
+        Object.entries({
+            "workbench.colorTheme": "Polychromatic Theme Dark",
+            "workbench.preferredDarkColorTheme": "Polychromatic Theme Dark",
+            "workbench.preferredLightColorTheme": "Polychromatic Theme Light",
+            "workbench.productIconTheme": "material-symbols"
+        }).forEach(([key, val]) =>
+            vscode.workspace
+                .getConfiguration()
+                .update(key, val, vscode.ConfigurationTarget.Global)
+        )
+};
