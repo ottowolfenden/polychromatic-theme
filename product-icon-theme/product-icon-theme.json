@@ -165,7 +165,10 @@
       "fontCharacter": "\\e0b8",
       "fontId": "normal"
     },
-    "extensions-configure-recommended": {},
+    "extensions-configure-recommended": {
+      "fontCharacter": "\\e3c9",
+      "fontId": "normal"
+    },
     "extensions-editor-label-icon": {
       "fontCharacter": "\\e1bd",
       "fontId": "normal"
@@ -341,8 +344,14 @@
       "fontCharacter": "\\e872",
       "fontId": "normal"
     },
-    "notebook-edit": {},
-    "notebook-execute": {},
+    "notebook-edit": {
+      "fontCharacter": "\\e3c9",
+      "fontId": "normal"
+    },
+    "notebook-execute": {
+      "fontCharacter": "\\e037",
+      "fontId": "normal"
+    },
     "notebook-execute-all": {},
     "notebook-expanded": {
       "fontCharacter": "\\e313",
@@ -368,8 +377,14 @@
       "fontCharacter": "\\e5d8",
       "fontId": "normal"
     },
-    "notebook-open-as-text": {},
-    "notebook-render-output": {},
+    "notebook-open-as-text": {
+      "fontCharacter": "\\f84d",
+      "fontId": "normal"
+    },
+    "notebook-render-output": {
+      "fontCharacter": "\\efad",
+      "fontId": "normal"
+    },
     "notebook-revert": {
       "fontCharacter": "\\e166",
       "fontId": "normal"
@@ -662,12 +677,18 @@
       "fontCharacter": "\\e889",
       "fontId": "normal"
     },
-    "timeline-pin": {},
+    "timeline-pin": {
+      "fontCharacter": "\\e6aa",
+      "fontId": "normal"
+    },
     "timeline-refresh": {
       "fontCharacter": "\\e5d5",
       "fontId": "normal"
     },
-    "timeline-unpin": {},
+    "timeline-unpin": {
+      "fontCharacter": "\\e6aa",
+      "fontId": "normal"
+    },
     "timeline-view-icon": {
       "fontCharacter": "\\e889",
       "fontId": "normal"
@@ -813,7 +834,10 @@
     "bracket": {},
     "briefcase": {},
     "broadcast": {},
-    "browser": {},
+    "browser": {
+      "fontCharacter": "\\e65a",
+      "fontId": "normal"
+    },
     "bug": {
       "fontCharacter": "\\f0fa",
       "fontId": "normal"
@@ -863,10 +887,22 @@
       "fontId": "normal"
     },
     "chip": {},
-    "chrome-close": {},
-    "chrome-maximize": {},
-    "chrome-minimize": {},
-    "chrome-restore": {},
+    "chrome-close": {
+      "fontCharacter": "\\e5cd",
+      "fontId": "normal"
+    },
+    "chrome-maximize": {
+      "fontCharacter": "\\e3bf",
+      "fontId": "normal"
+    },
+    "chrome-minimize": {
+      "fontCharacter": "\\e930",
+      "fontId": "normal"
+    },
+    "chrome-restore": {
+      "fontCharacter": "\\f4c8",
+      "fontId": "normal"
+    },
     "circle-filled": {},
     "circle-large-filled": {},
     "circle-large-outline": {},
@@ -1112,7 +1148,10 @@
       "fontId": "normal"
     },
     "file-binary": {},
-    "file-code": {},
+    "file-code": {
+      "fontCharacter": "\\f84d",
+      "fontId": "normal"
+    },
     "file-directory": {},
     "file-directory-create": {},
     "file-media": {},
@@ -1468,7 +1507,7 @@
     "notebook-template": {},
     "octoface": {},
     "open-preview": {
-      "fontCharacter": "\\f1c5",
+      "fontCharacter": "\\f3bf",
       "fontId": "normal"
     },
     "organization": {},
@@ -1482,19 +1521,52 @@
     "paintcan": {},
     "pass": {},
     "pass-filled": {},
-    "pencil": {},
-    "person": {},
-    "person-add": {},
-    "person-filled": {},
-    "person-follow": {},
-    "person-outline": {},
+    "pencil": {
+      "fontCharacter": "\\e3c9",
+      "fontId": "normal"
+    },
+    "person": {
+      "fontCharacter": "\\e7fd",
+      "fontId": "normal"
+    },
+    "person-add": {
+      "fontCharacter": "\\e7fe",
+      "fontId": "normal"
+    },
+    "person-filled": {
+      "fontCharacter": "\\e7fd",
+      "fontId": "fill"
+    },
+    "person-follow": {
+      "fontCharacter": "\\f290",
+      "fontId": "normal"
+    },
+    "person-outline": {
+      "fontCharacter": "\\e7fd",
+      "fontId": "normal"
+    },
     "pie-chart": {},
     "piano": {},
-    "pin": {},
-    "pinned": {},
-    "pinned-dirty": {},
-    "play": {},
-    "play-circle": {},
+    "pin": {
+      "fontCharacter": "\\e6aa",
+      "fontId": "normal"
+    },
+    "pinned": {
+      "fontCharacter": "\\e6aa",
+      "fontId": "normal"
+    },
+    "pinned-dirty": {
+      "fontCharacter": "\\e6aa",
+      "fontId": "normal"
+    },
+    "play": {
+      "fontCharacter": "\\e037",
+      "fontId": "normal"
+    },
+    "play-circle": {
+      "fontCharacter": "\\e1c4",
+      "fontId": "normal"
+    },
     "plug": {
       "fontCharacter": "\\e63c",
       "fontId": "normal"
@@ -1507,7 +1579,10 @@
       "fontCharacter": "\\f6f1",
       "fontId": "normal"
     },
-    "preview": {},
+    "preview": {
+      "fontCharacter": "\\efad",
+      "fontId": "normal"
+    },
     "primitive-dot": {},
     "primitive-square": {},
     "project": {},
