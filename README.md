@@ -2,12 +2,13 @@
 
 A colour theme, file icon theme and product icon theme for VS Code which supports light and dark mode.
 
+### Screenshots
 <img src="assets/dark-screenshot-1.png">
 <img src="assets/light-screenshot-1.png">
-<div style="display:flex; gap:10px;">
-  <img src="assets/dark-screenshot-2.png" width="50%">
-  <img src="assets/light-screenshot-2.png" width="50%">
-</div>
+<p align="center">
+    <img src="assets/dark-screenshot-2.png" width="49%" />
+    <img src="assets/light-screenshot-2.png" width="49%" />
+</p>
 
 ### Credit
 - Dark theme token colours originally from [Material Theme](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) (specifically Material Theme Darker).
