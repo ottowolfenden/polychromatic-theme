@@ -2,7 +2,7 @@
     "name": "polychromatic-theme",
     "displayName": "Polychromatic Theme",
     "description": "Polychromatic Theme",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -22,20 +22,29 @@
     "contributes": {
         "themes": [
             {
-                "label": "Polychromatic Theme Dark",
+                "id": "polychromatic-dark-colour-theme",
+                "label": "Polychromatic Dark Colour Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark.json"
+                "path": "./colour-theme/dark.json"
             },
             {
-                "label": "Polychromatic Theme Light",
+                "id": "polychromatic-light-colour-theme",
+                "label": "Polychromatic Light Colour Theme",
                 "uiTheme": "vs",
-                "path": "./themes/light.json"
+                "path": "./colour-theme/light.json"
+            }
+        ],
+        "iconThemes": [
+            {
+                "id": "polychromatic-file-icon-theme",
+                "label": "Polychromatic File Icon Theme",
+                "path": "./file-icon-theme/file-icon-theme.json"
             }
         ],
         "productIconThemes": [
             {
-                "id": "Material Symbols",
-                "label": "Material Symbols",
+                "id": "polychromatic-product-icon-theme",
+                "label": "Polychromatic Product Icon Theme",
                 "path": "./product-icon-theme/product-icon-theme.json"
             }
         ]

@@ -811,7 +811,7 @@
         "inputOption.activeBackground": "#ffffff30",
         "textLink.foreground": "#89ddff",
         "textLink.activeForeground": "#ffffff",
-        "sideBar.foreground": "#9f9f9f",
+        "sideBar.foreground": "#7f7f7f",
         "sideBar.background": "#0e0e0e",
         "sideBar.border": "#212121a0",
         "sideBarTitle.foreground": "#ffffff",
