@@ -636,7 +636,7 @@
             "name": "JS parameter",
             "scope": ["variable.other.readwrite.js"],
             "settings": {
-                "foreground": "#000000"
+                "foreground": "#505050"
             }
         },
         {
@@ -900,11 +900,11 @@
         "quickInput.background": "#fcfcfc",
         "quickInput.foreground": "#808080",
         "list.activeSelectionBackground": "#4285f418",
-        "list.inactiveSelectionBackground": "#4285f418",
+        "list.inactiveSelectionBackground": "#4285f409",
         "list.activeSelectionForeground": "#4285f4",
         "list.dropBackground": "#00000018",
-        "list.focusBackground": "#50505020",
-        "list.focusForeground": "#505050",
+        "list.focusBackground": "#4285f418",
+        "list.focusForeground": "#4285f4",
         "list.highlightForeground": "#4285f4",
         "list.hoverBackground": "#00000004",
         "settings.dropdownForeground": "#000000",
