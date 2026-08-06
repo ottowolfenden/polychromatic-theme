@@ -503,9 +503,7 @@
         },
         {
             "name": "Python - Self Parameter",
-            "scope": [
-                "variable.parameter.function.language.special.self.python"
-            ],
+            "scope": ["variable.parameter.function.language.special.self.python"],
             "settings": {
                 "foreground": "#f07178",
                 "fontStyle": "italic"
@@ -542,9 +540,7 @@
         },
         {
             "name": "JSON Key - Level 0",
-            "scope": [
-                "meta.structure.dictionary.json support.type.property-name.json"
-            ],
+            "scope": ["meta.structure.dictionary.json support.type.property-name.json"],
             "settings": {
                 "foreground": "#c792ea"
             }
@@ -880,11 +876,11 @@
         "peekViewResult.matchHighlightBackground": "#61616150",
         "peekViewEditor.matchHighlightBackground": "#61616150",
         "peekViewResult.selectionBackground": "#67676770",
-        "gitDecoration.deletedResourceForeground": "#f07178",
-        "gitDecoration.conflictingResourceForeground": "#ffcb6b",
-        "gitDecoration.modifiedResourceForeground": "#82aaff",
-        "gitDecoration.untrackedResourceForeground": "#c3e88d",
-        "gitDecoration.ignoredResourceForeground": "#606060",
+        "gitDecoration.deletedResourceForeground": "#f07178b0",
+        "gitDecoration.conflictingResourceForeground": "#ffcb6bb0",
+        "gitDecoration.modifiedResourceForeground": "#82aaffb0",
+        "gitDecoration.untrackedResourceForeground": "#c3e88db0",
+        "gitDecoration.ignoredResourceForeground": "#606060b0",
         "breadcrumb.foreground": "#676767",
         "breadcrumb.focusForeground": "#ffffff",
         "breadcrumb.activeSelectionForeground": "#89ddff",
