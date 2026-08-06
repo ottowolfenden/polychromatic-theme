@@ -503,9 +503,7 @@
         },
         {
             "name": "Python - Self Parameter",
-            "scope": [
-                "variable.parameter.function.language.special.self.python"
-            ],
+            "scope": ["variable.parameter.function.language.special.self.python"],
             "settings": {
                 "foreground": "#ea4335",
                 "fontStyle": "italic"
@@ -542,9 +540,7 @@
         },
         {
             "name": "JSON Key - Level 0",
-            "scope": [
-                "meta.structure.dictionary.json support.type.property-name.json"
-            ],
+            "scope": ["meta.structure.dictionary.json support.type.property-name.json"],
             "settings": {
                 "foreground": "#9c3eda"
             }
