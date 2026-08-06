@@ -743,7 +743,6 @@
         "panelTitle.inactiveForeground": "#505050",
         "notebook.focusedCellBorder": "#4285f4",
         "notebook.inactiveFocusedCellBorder": "#4285f450",
-
         "statusBar.background": "#f6f6f6",
         "statusBar.foreground": "#9f9f9f",
         "statusBar.border": "#dcdcdca0",
@@ -759,7 +758,6 @@
         "statusBarItem.offlineHoverForeground": "#9f9f9f",
         "statusBarItem.activeBackground": "#00000028",
         "statusBar.debuggingBackground": "#4285f4",
-        "statusBar.debuggingHoverForeground": "#ffffff",
         "statusBarItem.prominentBackground": "#0057ca",
         "statusBarItem.remoteBackground": "#7248b9",
         "statusBarItem.errorBackground": "#ea4335",
@@ -780,7 +778,6 @@
         "statusBarItem.remoteHoverBackground": "#ffffff1a",
         "statusBarItem.errorHoverBackground": "#ffffff1a",
         "statusBarItem.warningHoverBackground": "#ffffff1a",
-
         "terminal.ansiBlack": "#000000",
         "terminal.ansiBlue": "#0057ca",
         "terminal.ansiCyan": "#4285f4",
