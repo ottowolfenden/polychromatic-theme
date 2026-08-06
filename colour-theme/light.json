@@ -493,7 +493,7 @@
         "badge.background": "#ccd7da30",
         "badge.foreground": "#505050",
         "tab.border": "#fff0",
-        "tab.hoverBackground": "#0000000a",
+        "tab.hoverBackground": "#fff",
         "tab.activeModifiedBorder": "#dcdcdca0",
         "tab.inactiveModifiedBorder": "#dcdcdca0",
         "tab.unfocusedActiveModifiedBorder": "#dcdcdca0",
