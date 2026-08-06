@@ -2,6 +2,14 @@
 
 A colour theme, file icon theme and product icon theme for VS Code which supports light and dark mode.
 
+### Installation
+I haven't published this theme on the Visual Studio Marketplace so it has to be installed with the VSIX package file.
+
+1. Download the latest VSIX file from [Releases](https://github.com/ottowolfenden/polychromatic-theme/releases).
+2. Open the command palette in VS Code (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>).
+3. Type "Extensions: Install from VSIX" and press <kbd>Enter</kbd>.
+4. Select the polychromatic-theme.vsix file.
+
 ### Screenshots
 <img src="assets/dark-screenshot-1.png">
 <img src="assets/light-screenshot-1.png">
