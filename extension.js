@@ -5,10 +5,8 @@ module.exports = {
             "workbench.colorTheme": "Polychromatic Theme Dark",
             "workbench.preferredDarkColorTheme": "Polychromatic Theme Dark",
             "workbench.preferredLightColorTheme": "Polychromatic Theme Light",
-            "workbench.productIconTheme": "material-symbols"
+            "workbench.productIconTheme": "Material Symbols"
         }).forEach(([key, val]) =>
-            vscode.workspace
-                .getConfiguration()
-                .update(key, val, vscode.ConfigurationTarget.Global)
+            vscode.workspace.getConfiguration().update(key, val, vscode.ConfigurationTarget.Global)
         )
 };
