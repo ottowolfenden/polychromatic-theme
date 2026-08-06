@@ -4,8 +4,8 @@ A colour theme, file icon theme and product icon theme for VS Code which support
 
 <img src="assets/dark-screenshot-1.png">
 <img src="assets/light-screenshot-1.png">
-<img src="assets/dark-screenshot-2.png" width="50%">
-<img src="assets/light-screenshot-2.png" width="50%">
+<img src="assets/dark-screenshot-2.png" width="49%">
+<img src="assets/light-screenshot-2.png" width="49%">
 
 ### Credit
 - Dark theme token colours originally from [Material Theme](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) (specifically Material Theme Darker).
