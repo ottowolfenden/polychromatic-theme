@@ -6,8 +6,11 @@ module.exports = {
             "workbench.preferredDarkColorTheme": "polychromatic-dark-colour-theme",
             "workbench.preferredLightColorTheme": "polychromatic-light-colour-theme",
             "workbench.iconTheme": "polychromatic-file-icon-theme",
-            "workbench.productIconTheme": "polychromatic-product-icon-theme"
+            "workbench.productIconTheme": "polychromatic-product-icon-theme",
+            "workbench.shadows": false
         }).forEach(([key, val]) =>
-            vscode.workspace.getConfiguration().update(key, val, vscode.ConfigurationTarget.Global)
+            vscode.workspace
+                .getConfiguration()
+                .update(key, val, vscode.ConfigurationTarget.Global)
         )
 };
