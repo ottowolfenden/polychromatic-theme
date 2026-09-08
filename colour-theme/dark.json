@@ -480,6 +480,16 @@
             "name": "QML variable",
             "scope": ["variable.other.readwrite"],
             "settings": { "foreground": "#fff" }
+        },
+        {
+            "name": "TS property",
+            "scope": ["variable.object.property.ts", "meta.object-literal.key.ts"],
+            "settings": { "foreground": "#fff" }
+        },
+        {
+            "name": "TS function",
+            "scope": ["entity.name.function.ts"],
+            "settings": { "foreground": "#82aaff" }
         }
     ],
     "colors": {
