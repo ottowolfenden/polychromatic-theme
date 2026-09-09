@@ -309,10 +309,7 @@
     },
     "getting-started-codespaces": {},
     "getting-started-item-checked": {},
-    "getting-started-item-unchecked": {
-      "fontCharacter": "\\eee1",
-      "fontId": "normal"
-    },
+    "getting-started-item-unchecked": {},
     "getting-started-setup": {
       "fontCharacter": "\\e87d",
       "fontId": "normal"
@@ -735,10 +732,7 @@
       "fontCharacter": "\\f6ff",
       "fontId": "normal"
     },
-    "testing-unset-icon": {
-      "fontCharacter": "\\eee1",
-      "fontId": "normal"
-    },
+    "testing-unset-icon": {},
     "timeline-open": {
       "fontCharacter": "\\e889",
       "fontId": "normal"
@@ -1002,22 +996,10 @@
       "fontCharacter": "\\f4c8",
       "fontId": "normal"
     },
-    "circle-filled": {
-      "fontCharacter": "\\ef4a",
-      "fontId": "fill"
-    },
-    "circle-large-filled": {
-      "fontCharacter": "\\ef4a",
-      "fontId": "fill"
-    },
-    "circle-large-outline": {
-      "fontCharacter": "\\eee1",
-      "fontId": "normal"
-    },
-    "circle-outline": {
-      "fontCharacter": "\\eee1",
-      "fontId": "normal"
-    },
+    "circle-filled": {},
+    "circle-large-filled": {},
+    "circle-large-outline": {},
+    "circle-outline": {},
     "circle-slash": {
       "fontCharacter": "\\e14b",
       "fontId": "normal"
