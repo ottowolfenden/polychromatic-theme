@@ -710,7 +710,7 @@
         "quickInput.background": "#171717",
         "quickInput.foreground": "#676767",
         "list.activeSelectionBackground": "#89ddff1b",
-        "list.inactiveSelectionBackground": "#89ddff10",
+        "list.inactiveSelectionBackground": "#fff0",
         "list.activeSelectionForeground": "#89ddff",
         "list.dropBackground": "#ffffff18",
         "list.focusBackground": "#89ddff1b",
