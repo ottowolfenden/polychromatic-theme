@@ -488,7 +488,7 @@
         },
         {
             "name": "TS function",
-            "scope": ["entity.name.function.ts"],
+            "scope": ["entity.name.function.ts", "entity.name.function.tagged-template.js"],
             "settings": { "foreground": "#82aaff" }
         }
     ],
