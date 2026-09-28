@@ -490,6 +490,21 @@
             "name": "TS function",
             "scope": ["entity.name.function.ts", "entity.name.function.tagged-template.js"],
             "settings": { "foreground": "#82aaff" }
+        },
+        {
+            "name": "LaTeX newlines",
+            "scope": ["keyword.control.newline.tex"],
+            "settings": { "foreground": "#89ddff", "fontStyle": "normal" }
+        },
+        {
+            "name": "LaTeX (re)newcommand",
+            "scope": ["storage.type.function.latex"],
+            "settings": { "foreground": "#89ddff" }
+        },
+        {
+            "name": "LaTeX sections",
+            "scope": ["entity.name.section.latex"],
+            "settings": { "foreground": "#fff", "fontStyle": "bold" }
         }
     ],
     "colors": {
