@@ -493,7 +493,7 @@
         },
         {
             "name": "LaTeX newlines",
-            "scope": ["keyword.control.newline.tex"],
+            "scope": ["keyword.control.newline.tex", "keyword.control.equation.newline.latex"],
             "settings": { "foreground": "#89ddff", "fontStyle": "normal" }
         },
         {
