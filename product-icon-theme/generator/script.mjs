@@ -17,4 +17,4 @@ Object.entries(codiconMaterialSymbols).forEach(([name, hex]) => {
     });
 });
 
-fs.writeFileSync("../product-icon-theme.json", JSON.stringify(productIconTheme, null, 2));
+fs.writeFileSync("../product-icon-theme.json", JSON.stringify(productIconTheme, null, 4));
