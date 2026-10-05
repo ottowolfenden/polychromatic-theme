@@ -29,8 +29,8 @@ Or install from the [Visual Studio Marketplace](https://marketplace.visualstudio
 Or download the VSIX file from [Releases](https://github.com/ottowolfenden/polychromatic-theme/releases), then run "Extensions: Install from VSIX" in the command palette and select the VSIX file.
 
 ## Screenshots
-![dark theme](screenshots/dark.png)
-![light theme](screenshots/light.png)
+<img src="screenshots/dark.png" alt="dark theme">
+<img src="screenshots/light.png" alt="light theme">
 
 ## Credit
 - Dark theme colours originally from [Material Theme](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) (specifically Material Theme Darker).
