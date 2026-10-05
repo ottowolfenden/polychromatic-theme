@@ -1,6 +1,6 @@
 # Polychromatic theme
 
-A colour theme, file icon theme and product icon theme for VS Code which supports light and dark mode.
+A colour theme, file icon theme and product icon theme for VS Code which supports light and dark mode. Updated to support the new modern VS Code UI.
 
 ### Installation
 I haven't published this theme on the Visual Studio Marketplace so it has to be installed with the VSIX package file.
@@ -11,14 +11,10 @@ I haven't published this theme on the Visual Studio Marketplace so it has to be 
 4. Select the polychromatic-theme.vsix file.
 
 ### Screenshots
-<img src="assets/dark-screenshot-1.png">
-<img src="assets/light-screenshot-1.png">
-<p align="center">
-    <img src="assets/dark-screenshot-2.png" width="49%" />
-    <img src="assets/light-screenshot-2.png" width="49%" />
-</p>
+![dark theme](screenshots/dark.png)
+![light theme](screenshots/light.png)
 
 ### Credit
-- Dark theme token colours originally from [Material Theme](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) (specifically Material Theme Darker).
-- File icon theme contains icons from [Material Theme Icons](https://github.com/kd3n1z/vsc-material-theme-icons), with some modified/replaced.
+- Dark theme colours originally from [Material Theme](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) (specifically Material Theme Darker).
+- File icon theme contains icons from [Material Theme Icons](https://github.com/kd3n1z/vsc-material-theme-icons) and  [Material Symbols](https://fonts.google.com/icons), with some modified or replaced.
 - Product icon theme uses [Material Symbols](https://fonts.google.com/icons).
