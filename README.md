@@ -10,8 +10,10 @@
             width="700"></source>
         <img src="assets/title-light.png" alt="Polychromatic Theme">
     </picture>
-    <h3>Polychromatic Theme is a colour theme, file icon theme and product icon theme for VS Code which supports light and dark mode.</h3>
+    <h3>A colour theme, file icon theme and product icon theme for VS Code which supports light and dark mode.</h3>
 </div>
+
+<br>
 
 ## Installation
 I haven't published this theme on the Visual Studio Marketplace so it has to be installed with the VSIX package file.
