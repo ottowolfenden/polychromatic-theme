@@ -16,12 +16,17 @@
 <br>
 
 ## Installation
-I haven't published this theme on the Visual Studio Marketplace so it has to be installed with the VSIX package file.
+Launch VS Code Quick Open (<kbd>Ctrl</kbd>+<kbd>P</kbd>), paste the following command, and press <kbd>Enter</kbd>.
 
-1. Download the latest VSIX file from [Releases](https://github.com/ottowolfenden/polychromatic-theme/releases).
-2. Open the command palette in VS Code (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>).
-3. Type "Extensions: Install from VSIX" and press <kbd>Enter</kbd>.
-4. Select the polychromatic-theme.vsix file.
+```
+ext install ottowolfenden.polychromatic-theme
+```
+
+Or open the Extensions tab (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>) and search for "Polychromatic Theme".
+
+Or install from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ottowolfenden.polychromatic-theme).
+
+Or download the VSIX file from [Releases](https://github.com/ottowolfenden/polychromatic-theme/releases), then run "Extensions: Install from VSIX" in the command palette and select the VSIX file.
 
 ## Screenshots
 ![dark theme](screenshots/dark.png)
