@@ -3,14 +3,14 @@
         <source
             media="(prefers-color-scheme: light)"
             srcset="assets/title-light.png" 
-            width="500"></source>
+            width="700"></source>
         <source
             media="(prefers-color-scheme: dark)"
             srcset="assets/title-dark.png" 
-            width="500"></source>
-        <img src="assets/title-light.png" alt="Polychromatic Theme" height="135">
+            width="700"></source>
+        <img src="assets/title-light.png" alt="Polychromatic Theme">
     </picture>
-    <h3>Polychromatic Theme is a colour theme, file icon theme and product icon theme for VS Code which supports light and dark mode. Updated to support the modern VS Code UI.</h3>
+    <h3>Polychromatic Theme is a colour theme, file icon theme and product icon theme for VS Code which supports light and dark mode.</h3>
 </div>
 
 ## Installation
