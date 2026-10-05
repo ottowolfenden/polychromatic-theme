@@ -2,7 +2,7 @@
     "name": "polychromatic-theme",
     "displayName": "Polychromatic Theme",
     "description": "Polychromatic Theme",
-    "version": "5.1.1",
+    "version": "5.1.2",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -18,7 +18,7 @@
         "url": "https://github.com/ottowolfenden/polychromatic-theme.git"
     },
     "license": "MIT",
-    "icon": "icon.png",
+    "icon": "assets/icon.png",
     "contributes": {
         "themes": [
             {
