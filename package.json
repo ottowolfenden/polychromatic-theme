@@ -18,7 +18,7 @@
         "url": "https://github.com/ottowolfenden/polychromatic-theme.git"
     },
     "license": "MIT",
-    "icon": "assets/icon.png",
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
