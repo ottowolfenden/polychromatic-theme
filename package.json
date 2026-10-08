@@ -6,7 +6,7 @@
     "repository": "https://github.com/ottowolfenden/polychromatic-theme",
     "license": "MIT",
     "icon": "assets/icon.png",
-    "version": "5.1.3",
+    "version": "5.1.4",
     "engines": {
         "vscode": "^1.51.0"
     },
