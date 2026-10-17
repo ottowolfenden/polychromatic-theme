@@ -513,7 +513,7 @@
         "editorBracketHighlight.foreground3": "#179fff",
         "focusBorder": "#fff0",
         "foreground": "#fff",
-        "dropdown.background": "#1a1a1a60",
+        "dropdown.background": "#151515",
         "input.background": "#28282880",
         "badge.background": "#00000030",
         "badge.foreground": "#545454",
