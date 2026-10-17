@@ -10,8 +10,8 @@ Object.entries(codiconMaterialSymbols).forEach(([name, hex]) => {
         const original = JSON.stringify(productIconTheme.iconDefinitions[id]);
         const fontId = hex?.substring(0, 4) == "fill" ? "fill" : "normal";
         if (fontId == "fill") hex = hex.replace("fill", "");
-        productIconTheme.iconDefinitions[id] =
-            hex == "\\" || hex === null ? {} : { fontCharacter: hex, fontId };
+        if (hex === "\\" || hex === null) delete productIconTheme.iconDefinitions[id];
+        else productIconTheme.iconDefinitions[id] = { fontCharacter: hex, fontId };
         if (JSON.stringify(productIconTheme.iconDefinitions[id]) != original && hex)
             console.log(`${hex} (${fontId}) -> ${id}`);
     });
