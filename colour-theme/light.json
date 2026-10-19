@@ -505,6 +505,11 @@
             "name": "LaTeX sections",
             "scope": ["entity.name.section.latex"],
             "settings": { "foreground": "#505050", "fontStyle": "bold" }
+        },
+        {
+            "name": "Shell Shebang",
+            "scope": ["punctuation.definition.comment.shebang.shell", "meta.shebang.shell"],
+            "settings": { "foreground": "#4285f4", "fontStyle": "italic" }
         }
     ],
     "colors": {
