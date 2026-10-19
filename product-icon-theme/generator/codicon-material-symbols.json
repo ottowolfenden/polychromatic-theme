@@ -197,6 +197,7 @@
     "git-branch-changes": "fill\\fffec",
     "git-branch-create": "\\fffec",
     "git-branch-delete": "\\fffec",
+    "git-branch-staged-changes": "fill\\fffec",
     "git-commit": "\\eaf5",
     "git-compare": "\\e915",
     "git-fetch": "\\f4b6",

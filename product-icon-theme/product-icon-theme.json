@@ -2669,6 +2669,10 @@
         "map": {
             "fontCharacter": "\\e55b",
             "fontId": "normal"
+        },
+        "git-branch-staged-changes": {
+            "fontCharacter": "\\fffec",
+            "fontId": "fill"
         }
     }
 }
