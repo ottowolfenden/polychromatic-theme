@@ -1,3 +1,5 @@
+<!-- begin githubonly -->
+
 <div align="center">
     <picture>
         <source
@@ -27,6 +29,8 @@ Or open the Extensions tab (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>) and s
 Or install from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ottowolfenden.polychromatic-theme).
 
 Or download the VSIX file from [Releases](https://github.com/ottowolfenden/polychromatic-theme/releases), then run "Extensions: Install from VSIX" in the command palette and select the VSIX file.
+
+<!-- end githubonly -->
 
 ## Screenshots
 <img src="screenshots/dark.png" alt="dark theme">
