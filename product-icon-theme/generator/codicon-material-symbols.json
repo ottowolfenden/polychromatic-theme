@@ -364,6 +364,7 @@
     "replace-all": "\\e877",
     "reply": "\\e15e",
     "repo": "\\f3c8",
+    "repo-selected": "fill\\f3c8",
     "repo-clone": "\\e3bb",
     "repo-create": "\\e145",
     "repo-delete": "\\e872",

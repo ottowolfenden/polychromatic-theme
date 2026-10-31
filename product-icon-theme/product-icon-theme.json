@@ -2677,6 +2677,10 @@
         "variable-group": {
             "fontCharacter": "\\f51d",
             "fontId": "normal"
+        },
+        "repo-selected": {
+            "fontCharacter": "\\f3c8",
+            "fontId": "fill"
         }
     }
 }
