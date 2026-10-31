@@ -751,7 +751,7 @@
         "settings.checkboxForeground": "#000",
         "settings.checkboxBackground": "#f7f7f7",
         "settings.checkboxBorder": "#f7f7f7",
-        "settings.settingsHeaderHoverForeground": "#fff0",
+        "settings.settingsHeaderHoverForeground": "#4285f4",
         "settings.rowHoverBackground": "#fff0",
         "settings.focusedRowBackground": "#fff0",
         "listFilterWidget.background": "#f6f6f6",
@@ -810,6 +810,11 @@
         "modernUI.shellBackground": "#f6f6f6",
         "modernUI.inactiveShellBackground": "#f6f6f6",
         "editor.border": "#f6f6f6",
-        "modernEditorTab.activeForeground": "#505050"
+        "modernEditorTab.activeForeground": "#505050",
+        "checkbox.background": "#ececec",
+        "checkbox.selectBackground": "#ececec",
+        "checkbox.foreground": "#000",
+        "checkbox.border": "#fff0",
+        "checkbox.selectBorder": "#fff0"
     }
 }
