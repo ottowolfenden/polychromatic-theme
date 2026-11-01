@@ -119,7 +119,7 @@
     "debug-line-by-line": "\\e05f",
     "debug-pause": "\\e034",
     "debug-rerun": "\\f0d1",
-    "debug-restart": "\\e042",
+    "debug-restart": "\\e5d5",
     "debug-restart-frame": "\\e8ba",
     "debug-reverse-continue": "\\e020",
     "debug-stackframe": "\\f500",

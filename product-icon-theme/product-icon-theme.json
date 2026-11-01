@@ -111,7 +111,7 @@
             "fontId": "normal"
         },
         "debug-restart": {
-            "fontCharacter": "\\e042",
+            "fontCharacter": "\\e5d5",
             "fontId": "normal"
         },
         "debug-restart-frame": {
@@ -344,10 +344,6 @@
         },
         "keybindings-record-keys": {
             "fontCharacter": "\\e312",
-            "fontId": "normal"
-        },
-        "keybindings-sort": {
-            "fontCharacter": "\\fff33",
             "fontId": "normal"
         },
         "loaded-scripts-view-icon": {
@@ -2681,6 +2677,10 @@
         "repo-selected": {
             "fontCharacter": "\\f3c8",
             "fontId": "fill"
+        },
+        "keybindings-sort": {
+            "fontCharacter": "\\fff33",
+            "fontId": "normal"
         }
     }
 }
