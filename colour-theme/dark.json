@@ -533,6 +533,11 @@
             "name": "C++ numbers",
             "scope": ["keyword.other.unit.binary.cpp", "keyword.other.unit.hexadecimal.cpp"],
             "settings": { "foreground": "#f78c6c", "fontStyle": "normal" }
+        },
+        {
+            "name": "C++ booleans",
+            "scope": ["constant.language.false.cpp", "constant.language.true.cpp"],
+            "settings": { "foreground": "#ff9cac", "fontStyle": "italic" }
         }
     ],
     "colors": {
