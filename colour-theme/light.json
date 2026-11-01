@@ -510,6 +510,29 @@
             "name": "Shell Shebang",
             "scope": ["punctuation.definition.comment.shebang.shell", "meta.shebang.shell"],
             "settings": { "foreground": "#4285f4", "fontStyle": "italic" }
+        },
+        {
+            "name": "C++ types",
+            "scope": ["storage.type.built-in.primitive.cpp"],
+            "settings": { "foreground": "#4285f4", "fontStyle": "italic" }
+        },
+        {
+            "name": "C++ keywords",
+            "scope": [
+                "storage",
+                "keyword.other",
+                "keyword.operator.cpp",
+                "storage.modifier",
+                "storage.type",
+                "constant.language.nullptr.cpp",
+                "keyword.operator.wordlike.cpp"
+            ],
+            "settings": { "foreground": "#4285f4", "fontStyle": "italic" }
+        },
+        {
+            "name": "C++ numbers",
+            "scope": ["keyword.other.unit.binary.cpp", "keyword.other.unit.hexadecimal.cpp"],
+            "settings": { "foreground": "#F76D47", "fontStyle": "normal" }
         }
     ],
     "colors": {
