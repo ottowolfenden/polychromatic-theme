@@ -9,7 +9,7 @@
     },
     "license": "MIT",
     "icon": "assets/icon.png",
-    "version": "6.2.0",
+    "version": "6.3.0",
     "engines": { "vscode": "^1.51.0" },
     "categories": ["Themes"],
     "main": "./extension.js",
