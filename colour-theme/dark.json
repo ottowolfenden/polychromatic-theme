@@ -538,6 +538,11 @@
             "name": "C++ booleans",
             "scope": ["constant.language.false.cpp", "constant.language.true.cpp"],
             "settings": { "foreground": "#ff9cac", "fontStyle": "italic" }
+        },
+        {
+            "name": "C++ directives",
+            "scope": ["punctuation.definition.directive.cpp", "keyword.control.directive"],
+            "settings": { "foreground": "#c792ea", "fontStyle": "italic" }
         }
     ],
     "colors": {
