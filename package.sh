@@ -2,16 +2,23 @@
 
 set -e
 
-file="README.md"
-backup=$(mktemp)
+cd "$(dirname "${BASH_SOURCE[0]}")"
 
-cp "$file" "$backup"
+oldvsixs=(polychromatic-theme-*.vsix)
+readme="README.md"
+oldreadme=$(mktemp)
 
-restore() { cp "$backup" "$file"; rm -f "$backup"; }
+cp "$readme" "$oldreadme"
+
+restore() { cp "$oldreadme" "$readme"; rm -f "$oldreadme"; }
 
 trap restore EXIT
 
-sed -i '/<!-- begin githubonly -->/a <!--' "$file"
-sed -i '/<!-- end githubonly -->/i -->' "$file"
+sed -i '/<!-- begin githubonly -->/a <!--' "$readme"
+sed -i '/<!-- end githubonly -->/i -->' "$readme"
 
 vsce package
+
+echo "${oldvsixs[@]}"
+
+rm -f "${oldvsixs[@]}"
