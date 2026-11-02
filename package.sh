@@ -19,6 +19,4 @@ sed -i '/<!-- end githubonly -->/i -->' "$readme"
 
 vsce package
 
-echo "${oldvsixs[@]}"
-
-rm -f "${oldvsixs[@]}"
+[[ $(wc -l polychromatic-theme-*.vsix | wc -l) != 1 ]] && rm -f "${oldvsixs[@]}"
