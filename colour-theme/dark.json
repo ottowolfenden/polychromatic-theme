@@ -54,7 +54,7 @@
         {
             "name": "Storage",
             "scope": "storage.type, storage.modifier, storage.control",
-            "settings": { "foreground": "#c792ea" }
+            "settings": { "foreground": "#f78c6c" }
         },
         {
             "name": "Modules",
@@ -519,11 +519,10 @@
         {
             "name": "C++ keywords",
             "scope": [
-                "storage",
-                "keyword.other",
+                "source.cpp storage",
+                "source.cpp keyword.other",
                 "keyword.operator.cpp",
-                "storage.modifier",
-                "storage.type",
+                "source.cpp storage.modifier",
                 "constant.language.nullptr.cpp",
                 "keyword.operator.wordlike.cpp"
             ],
