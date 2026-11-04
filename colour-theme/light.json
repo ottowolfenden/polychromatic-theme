@@ -576,6 +576,11 @@
                 "constant.language.null.ts"
             ],
             "settings": { "foreground": "#4285f4", "fontStyle": "italic" }
+        },
+        {
+            "name": "CSS units",
+            "scope": ["source.css keyword.other.unit"],
+            "settings": { "foreground": "#f76d47" }
         }
     ],
     "colors": {
