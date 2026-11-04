@@ -24,7 +24,7 @@
         {
             "name": "Boolean",
             "scope": "constant.language.boolean",
-            "settings": { "foreground": "#ff5370", "fontStyle": "italic" }
+            "settings": { "foreground": "#ff80ab", "fontStyle": "italic" }
         },
         {
             "name": "Number",
@@ -39,7 +39,7 @@
         {
             "name": "Other Keyword",
             "scope": "keyword.other",
-            "settings": { "foreground": "#f76d47" }
+            "settings": { "foreground": "#4285f4" }
         },
         {
             "name": "Keyword",
@@ -54,7 +54,7 @@
         {
             "name": "Storage",
             "scope": "storage.type, storage.modifier, storage.control",
-            "settings": { "foreground": "#f76d47" }
+            "settings": { "foreground": "#7248b9" }
         },
         {
             "name": "Modules",
@@ -284,7 +284,7 @@
         {
             "name": "Member Access Meta",
             "scope": "source.python meta.member.access.python",
-            "settings": { "foreground": "#ea4335" }
+            "settings": { "foreground": "#505050" }
         },
         {
             "name": "Function Call",
@@ -524,13 +524,28 @@
                 "keyword.operator.cpp",
                 "source.cpp storage.modifier",
                 "constant.language.nullptr.cpp",
-                "keyword.operator.wordlike.cpp"
+                "keyword.operator.wordlike.cpp",
+                "storage.type.enum.cpp",
+                "storage.type.enum.enum-key.class.cpp",
+                "storage.type.struct.cpp",
+                "storage.type.class.cpp",
+                "storage.type.template.cpp",
+                "storage.type.template.argument.typename.cpp",
+                "storage.type.template.argument.class.cpp",
+                "source.cpp storage.type.modifier.access.control"
             ],
             "settings": { "foreground": "#4285f4", "fontStyle": "italic" }
         },
         {
             "name": "C++ numbers",
-            "scope": ["keyword.other.unit.binary.cpp", "keyword.other.unit.hexadecimal.cpp"],
+            "scope": [
+                "keyword.other.unit.binary.cpp",
+                "keyword.other.unit.hexadecimal.cpp",
+                "keyword.other.unit.octal.cpp",
+                "keyword.other.unit.exponent.decimal.cpp",
+                "keyword.other.suffix.literal.built-in.integer.cpp",
+                "keyword.other.unit.suffix.integer.cpp"
+            ],
             "settings": { "foreground": "#F76D47", "fontStyle": "normal" }
         },
         {
@@ -542,6 +557,25 @@
             "name": "C++ directives",
             "scope": ["punctuation.definition.directive.cpp", "keyword.control.directive"],
             "settings": { "foreground": "#7248b9", "fontStyle": "italic" }
+        },
+        {
+            "name": "C++ attributes",
+            "scope": ["source.cpp entity.other.attribute"],
+            "settings": { "foreground": "#ea4335" }
+        },
+        {
+            "name": "Python numbers",
+            "scope": ["storage.type.number.python", "storage.type.format.python"],
+            "settings": { "foreground": "#f76d47" }
+        },
+        {
+            "name": "TS storage type and null",
+            "scope": [
+                "storage.type.ts",
+                "source.ts storage.modifier",
+                "constant.language.null.ts"
+            ],
+            "settings": { "foreground": "#4285f4", "fontStyle": "italic" }
         }
     ],
     "colors": {
@@ -641,7 +675,7 @@
         "terminal.ansiBlue": "#0057ca",
         "terminal.ansiCyan": "#4285f4",
         "terminal.ansiGreen": "#34a853",
-        "terminal.ansiMagenta": "#ff80ab",
+        "terminal.ansiMagenta": "#7248b9",
         "terminal.ansiRed": "#ea4335",
         "terminal.ansiWhite": "#000",
         "terminal.ansiYellow": "#e2931d",
@@ -649,7 +683,7 @@
         "terminal.ansiBrightBlue": "#0057ca",
         "terminal.ansiBrightCyan": "#4285f4",
         "terminal.ansiBrightGreen": "#34a853",
-        "terminal.ansiBrightMagenta": "#ff80ab",
+        "terminal.ansiBrightMagenta": "#7248b9",
         "terminal.ansiBrightRed": "#ea4335",
         "terminal.ansiBrightWhite": "#000",
         "terminal.ansiBrightYellow": "#e2931d",

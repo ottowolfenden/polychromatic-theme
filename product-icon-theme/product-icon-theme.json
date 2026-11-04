@@ -2681,6 +2681,10 @@
         "keybindings-sort": {
             "fontCharacter": "\\fff33",
             "fontId": "normal"
+        },
+        "developer-tools": {
+            "fontCharacter": "\\e30d",
+            "fontId": "normal"
         }
     }
 }
