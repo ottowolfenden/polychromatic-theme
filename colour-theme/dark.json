@@ -519,10 +519,6 @@
         {
             "name": "C++ keywords",
             "scope": [
-                "source.cpp storage",
-                "source.cpp keyword.other",
-                "keyword.operator.cpp",
-                "source.cpp storage.modifier",
                 "constant.language.nullptr.cpp",
                 "keyword.operator.wordlike.cpp",
                 "storage.type.enum.cpp",
@@ -530,8 +526,6 @@
                 "storage.type.struct.cpp",
                 "storage.type.class.cpp",
                 "storage.type.template.cpp",
-                "storage.type.template.argument.typename.cpp",
-                "storage.type.template.argument.class.cpp",
                 "source.cpp storage.type.modifier.access.control"
             ],
             "settings": { "foreground": "#89ddff", "fontStyle": "italic" }
@@ -556,26 +550,17 @@
         {
             "name": "C++ directives",
             "scope": ["punctuation.definition.directive.cpp", "keyword.control.directive"],
-            "settings": { "foreground": "#c792ea", "fontStyle": "italic" }
+            "settings": { "foreground": "#f07178", "fontStyle": "italic" }
         },
         {
             "name": "C++ attributes",
             "scope": ["source.cpp entity.other.attribute"],
-            "settings": { "foreground": "#f07178" }
+            "settings": { "foreground": "#c792ea" }
         },
         {
             "name": "Python numbers",
             "scope": ["storage.type.number.python", "storage.type.format.python"],
             "settings": { "foreground": "#f78c6c" }
-        },
-        {
-            "name": "TS storage type and null",
-            "scope": [
-                "storage.type.ts",
-                "source.ts storage.modifier",
-                "constant.language.null.ts"
-            ],
-            "settings": { "foreground": "#89ddff", "fontStyle": "italic" }
         },
         {
             "name": "CSS units",
