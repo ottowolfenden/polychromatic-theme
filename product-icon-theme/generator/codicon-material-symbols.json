@@ -524,5 +524,6 @@
     "zoom-out": "\\e900",
     "multi-diff-editor-label-icon": "\\eb7d",
     "variable-group": "\\f51d",
-    "developer-tools": "\\e30d"
+    "developer-tools": "\\e30d",
+    "edit-code": "\\e745"
 }

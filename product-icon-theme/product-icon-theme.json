@@ -2685,6 +2685,10 @@
         "developer-tools": {
             "fontCharacter": "\\e30d",
             "fontId": "normal"
+        },
+        "edit-code": {
+            "fontCharacter": "\\e745",
+            "fontId": "normal"
         }
     }
 }
