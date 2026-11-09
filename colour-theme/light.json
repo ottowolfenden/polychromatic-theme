@@ -526,7 +526,9 @@
                 "storage.type.struct.cpp",
                 "storage.type.class.cpp",
                 "storage.type.template.cpp",
-                "source.cpp storage.type.modifier.access.control"
+                "source.cpp storage.type.modifier.access.control",
+                "source.cpp keyword.other",
+                "keyword.operator.functionlike.cpp"
             ],
             "settings": { "foreground": "#4285f4", "fontStyle": "italic" }
         },
@@ -563,8 +565,8 @@
             "settings": { "foreground": "#f76d47" }
         },
         {
-            "name": "CSS units",
-            "scope": ["source.css keyword.other.unit"],
+            "name": "Units",
+            "scope": ["keyword.other.unit"],
             "settings": { "foreground": "#f76d47" }
         }
     ],
