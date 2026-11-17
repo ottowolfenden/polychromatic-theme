@@ -2689,6 +2689,10 @@
         "edit-code": {
             "fontCharacter": "\\e745",
             "fontId": "normal"
+        },
+        "shellcheck-logo": {
+            "fontCharacter": "\\eb8e",
+            "fontId": "normal"
         }
     }
 }
