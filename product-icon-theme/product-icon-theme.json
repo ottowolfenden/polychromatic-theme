@@ -6,7 +6,7 @@
             "id": "normal",
             "src": [
                 {
-                    "path": "./material-symbols-outlined.ttf",
+                    "path": "./material-symbols-extended-24px.ttf",
                     "format": "truetype"
                 }
             ],
@@ -17,7 +17,7 @@
             "id": "fill",
             "src": [
                 {
-                    "path": "./material-symbols-outlined-filled.ttf",
+                    "path": "./material-symbols-extended-24px-fill.ttf",
                     "format": "truetype"
                 }
             ],
