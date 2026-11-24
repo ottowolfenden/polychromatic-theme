@@ -683,7 +683,7 @@
             "fontId": "normal"
         },
         "source-control-view-icon": {
-            "fontCharacter": "\\fffec",
+            "fontCharacter": "\\10FFD9",
             "fontId": "normal"
         },
         "suggest-more-info": {
@@ -751,7 +751,7 @@
             "fontId": "normal"
         },
         "testing-show-as-list-icon": {
-            "fontCharacter": "\\e97a",
+            "fontCharacter": "\\10FFDA",
             "fontId": "normal"
         },
         "testing-skipped-icon": {
@@ -1203,7 +1203,7 @@
             "fontId": "normal"
         },
         "diff": {
-            "fontCharacter": "\\eb7d",
+            "fontCharacter": "\\10FFDB",
             "fontId": "normal"
         },
         "diff-added": {
@@ -1423,15 +1423,15 @@
             "fontId": "normal"
         },
         "git-branch": {
-            "fontCharacter": "\\fffec",
+            "fontCharacter": "\\10FFD9",
             "fontId": "normal"
         },
         "git-branch-create": {
-            "fontCharacter": "\\fffec",
+            "fontCharacter": "\\10FFD9",
             "fontId": "normal"
         },
         "git-branch-delete": {
-            "fontCharacter": "\\fffec",
+            "fontCharacter": "\\10FFD9",
             "fontId": "normal"
         },
         "git-commit": {
@@ -1715,7 +1715,7 @@
             "fontId": "normal"
         },
         "list-tree": {
-            "fontCharacter": "\\e97a",
+            "fontCharacter": "\\10FFDA",
             "fontId": "normal"
         },
         "list-unordered": {
@@ -2055,7 +2055,7 @@
             "fontId": "normal"
         },
         "repo": {
-            "fontCharacter": "\\f3c8",
+            "fontCharacter": "\\10FFF1",
             "fontId": "normal"
         },
         "repo-clone": {
@@ -2095,7 +2095,7 @@
             "fontId": "normal"
         },
         "request-changes": {
-            "fontCharacter": "\\eb7d",
+            "fontCharacter": "\\10FFDB",
             "fontId": "normal"
         },
         "rocket": {
@@ -2227,7 +2227,7 @@
             "fontId": "normal"
         },
         "source-control": {
-            "fontCharacter": "\\fffec",
+            "fontCharacter": "\\10FFD9",
             "fontId": "normal"
         },
         "split-horizontal": {
@@ -2567,7 +2567,7 @@
             "fontId": "normal"
         },
         "versions": {
-            "fontCharacter": "\\eb7d",
+            "fontCharacter": "\\10FFDB",
             "fontId": "normal"
         },
         "vm": {
@@ -2655,8 +2655,8 @@
             "fontId": "normal"
         },
         "git-branch-changes": {
-            "fontCharacter": "\\fffec",
-            "fontId": "fill"
+            "fontCharacter": "\\10FFD8",
+            "fontId": "normal"
         },
         "diff-multiple": {
             "fontCharacter": "\\eb7d",
@@ -2667,15 +2667,15 @@
             "fontId": "normal"
         },
         "git-branch-staged-changes": {
-            "fontCharacter": "\\fffec",
-            "fontId": "fill"
+            "fontCharacter": "\\10FFD6",
+            "fontId": "normal"
         },
         "variable-group": {
             "fontCharacter": "\\f51d",
             "fontId": "normal"
         },
         "repo-selected": {
-            "fontCharacter": "\\f3c8",
+            "fontCharacter": "\\10FFF1",
             "fontId": "fill"
         },
         "keybindings-sort": {
@@ -2692,6 +2692,18 @@
         },
         "shellcheck-logo": {
             "fontCharacter": "\\eb8e",
+            "fontId": "normal"
+        },
+        "download": {
+            "fontCharacter": "\\f090",
+            "fontId": "normal"
+        },
+        "eraser": {
+            "fontCharacter": "\\e6d0",
+            "fontId": "normal"
+        },
+        "flag": {
+            "fontCharacter": "\\e153",
             "fontId": "normal"
         }
     }
