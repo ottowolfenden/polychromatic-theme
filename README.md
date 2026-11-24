@@ -37,6 +37,6 @@ Or download the VSIX file from [Releases](https://github.com/ottowolfenden/polyc
 <img src="screenshots/light.png" alt="light theme">
 
 ## Credit
-- Dark theme colours originally from [Material Theme](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) (specifically Material Theme Darker).
-- File icon theme contains icons from [Material Theme Icons](https://github.com/kd3n1z/vsc-material-theme-icons) and  [Material Symbols](https://fonts.google.com/icons), with some modified or replaced.
-- Product icon theme uses [Material Symbols](https://fonts.google.com/icons).
+- Colour scheme for dark theme originally from [Material Theme](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) (specifically Material Theme Darker).
+- File icon theme contains icons from [Material Theme Icons](https://github.com/kd3n1z/vsc-material-theme-icons) and  [Material Symbols](https://fonts.google.com/icons), with some modified/replaced.
+- Product icon theme uses [Material Symbols Extended](https://github.com/ottowolfenden/material-symbols-extended) which is licensed under the Apache License 2.0.
