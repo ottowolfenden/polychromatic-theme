@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Update product-icon-theme.json",
+            "type": "shell",
+            "command": "./product-icon-theme/generator/generate.sh",
+            "problemMatcher": []
+        }
+    ]
+}
