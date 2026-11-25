@@ -2171,7 +2171,7 @@
             "fontId": "normal"
         },
         "search-fuzzy": {
-            "fontCharacter": "\\f02f",
+            "fontCharacter": "\\10FFD1",
             "fontId": "normal"
         },
         "selection": {
