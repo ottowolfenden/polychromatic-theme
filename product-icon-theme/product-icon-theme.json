@@ -39,7 +39,7 @@
             "fontId": "normal"
         },
         "breakpoints-view-icon": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "callhierarchy-incoming": {
@@ -51,7 +51,7 @@
             "fontId": "normal"
         },
         "callstack-view-icon": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "callstack-view-session": {
@@ -95,7 +95,7 @@
             "fontId": "normal"
         },
         "debug-continue": {
-            "fontCharacter": "\\f7d0",
+            "fontCharacter": "\\e037",
             "fontId": "normal"
         },
         "debug-disconnect": {
@@ -191,7 +191,7 @@
             "fontId": "normal"
         },
         "disassembly-editor-label-icon": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "explorer-view-icon": {
@@ -347,7 +347,7 @@
             "fontId": "normal"
         },
         "loaded-scripts-view-icon": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "marker-navigation-next": {
@@ -575,7 +575,7 @@
             "fontId": "normal"
         },
         "run-view-icon": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "runtime-extensions-editor-label-icon": {
@@ -723,7 +723,7 @@
             "fontId": "normal"
         },
         "testing-debug-icon": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "testing-error-icon": {
@@ -779,7 +779,7 @@
             "fontId": "normal"
         },
         "variables-view-icon": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "view-pane-container-collapsed": {
@@ -803,7 +803,7 @@
             "fontId": "normal"
         },
         "watch-view-icon": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "widget-close": {
@@ -1147,15 +1147,15 @@
             "fontId": "normal"
         },
         "debug-all": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "debug": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "debug-alt": {
-            "fontCharacter": "\\e868",
+            "fontCharacter": "\\10FFBF",
             "fontId": "normal"
         },
         "debug-alt-small": {
@@ -1163,7 +1163,7 @@
             "fontId": "normal"
         },
         "debug-continue-small": {
-            "fontCharacter": "\\f7d0",
+            "fontCharacter": "\\e037",
             "fontId": "normal"
         },
         "debug-coverage": {
