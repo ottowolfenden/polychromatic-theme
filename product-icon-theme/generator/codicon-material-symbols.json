@@ -690,7 +690,7 @@
     "refresh-compact": "\\e5d5",
     "remote-compact": "\\e1e2",
     "remove-small": "\\e15b",
-    "rename": "\\e676",
+    "rename": "\\10FFBD",
     "repo-compact": "\\10FFF1",
     "repo-fetch": "\\f4b6",
     "repo-forked-compact": "\\f3a0",

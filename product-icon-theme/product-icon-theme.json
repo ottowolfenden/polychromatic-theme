@@ -3155,7 +3155,7 @@
             "fontId": "normal"
         },
         "rename": {
-            "fontCharacter": "\\e676",
+            "fontCharacter": "\\10FFBD",
             "fontId": "normal"
         },
         "repo-compact": {
