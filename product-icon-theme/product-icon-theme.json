@@ -2454,18 +2454,6 @@
             "fontCharacter": "\\e6b1",
             "fontId": "normal"
         },
-        "terminal-cmd": {
-            "fontCharacter": "\\eb8e",
-            "fontId": "normal"
-        },
-        "terminal-tmux": {
-            "fontCharacter": "\\f3ea",
-            "fontId": "normal"
-        },
-        "terminal-ubuntu": {
-            "fontCharacter": "\\eb8e",
-            "fontId": "normal"
-        },
         "terminal": {
             "fontCharacter": "\\eb8e",
             "fontId": "normal"
@@ -3356,6 +3344,10 @@
         },
         "worktree": {
             "fontCharacter": "\\f38d",
+            "fontId": "normal"
+        },
+        "terminal-secure": {
+            "fontCharacter": "\\10FFC0",
             "fontId": "normal"
         }
     }
