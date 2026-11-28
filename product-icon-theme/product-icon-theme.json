@@ -1327,11 +1327,11 @@
             "fontId": "normal"
         },
         "file-symlink-directory": {
-            "fontCharacter": "\\e9a3",
+            "fontCharacter": "\\10FFD3",
             "fontId": "normal"
         },
         "file-symlink-file": {
-            "fontCharacter": "\\eaf3",
+            "fontCharacter": "\\10FFD5",
             "fontId": "normal"
         },
         "file-text": {
@@ -1587,7 +1587,7 @@
             "fontId": "normal"
         },
         "json": {
-            "fontCharacter": "\\f3bb",
+            "fontCharacter": "\\10FFE8",
             "fontId": "normal"
         },
         "kebab-horizontal": {
