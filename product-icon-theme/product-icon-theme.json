@@ -343,7 +343,7 @@
             "fontId": "normal"
         },
         "keybindings-record-keys": {
-            "fontCharacter": "\\e312",
+            "fontCharacter": "\\10FFBC",
             "fontId": "normal"
         },
         "loaded-scripts-view-icon": {
@@ -1999,7 +1999,7 @@
             "fontId": "normal"
         },
         "record-keys": {
-            "fontCharacter": "\\e312",
+            "fontCharacter": "\\10FFBC",
             "fontId": "normal"
         },
         "record-small": {
